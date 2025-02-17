@@ -1,2 +1,2 @@
-# TP-R-seaux-de-Neurones
+# TP-Réseaux-de-Neurones
 Trinome
